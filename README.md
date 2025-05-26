@@ -1,1 +1,1 @@
-# biometrics_project
+# Synthetic-Iris-Image-Generation-Using-GANs
